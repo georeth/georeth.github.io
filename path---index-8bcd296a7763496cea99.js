@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{"./node_modules/json-loader/index.js!./.cache/json/index.json":function(e,t){e.exports={data:{site:{siteMetadata:{title:"Random Thoughts",author:"Georeth Chow"}},allMarkdownRemark:{edges:[{node:{excerpt:"Welcome to my blog. I’m a software engineer interested in algorithms, systems and programming languages.\nI have just built my own blog by…",frontmatter:{path:"/welcome/",date:"22 September, 2017",title:"Welcome to my blog"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-8bcd296a7763496cea99.js.map
